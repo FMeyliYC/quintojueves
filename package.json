@@ -1,0 +1,25 @@
+{
+  
+  "name": "proyecto3",
+  
+  "version": "1.0.0",
+  
+  "main": "app.js",
+  
+  "scripts": {
+  
+    
+  "start": "node arrray.js",
+  
+    
+  "dev": "node arrray.js"
+  
+  },
+  
+  "dependencies": {
+  
+    
+  "readline-sync": "^1.4.10"
+  
+  }
+}
